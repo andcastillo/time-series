@@ -1,10 +1,3 @@
-Results,EUR/USD Close,USD/JPY Close,USD/CAD Close,EUR/JPY Close
-Average,  1.186,109.263,  1.237,127.296
-Minimum,   1.039,  86.700,   0.984,   0.000
-Maximum,   1.393, 125.637,   1.455, 149.215
-Std,   0.100,   7.494,   0.115,  17.066
-# In Calc, 1826, 1826, 1826, 1826
-
 Date,EUR/USD Close,USD/JPY Close,USD/CAD Close,EUR/JPY Close
 2013-01-01,1.3219,86.7,0.9934,114.47
 2013-01-02,1.3177,87.203,0.9857,114.92
